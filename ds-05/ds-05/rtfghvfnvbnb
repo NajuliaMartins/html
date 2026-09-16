@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Beauty Store - Catálogo de Maquiagem</title>
+</head>
+
+<body>
+
+    <!-- 1. Título da página -->
+    <h1>Beauty Store </h1>
+    <p>Catálogo de produtos de maquiagem</p>
+
+    <!-- 2. Menu de navegação -->
+    <h2>Menu de Navegação</h2>
+
+    <nav>
+        <a href="#inicio">Início</a> |
+        <a href="#produtos">Produtos</a> |
+        <a href="#tabela">Tabela d<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Beauty Store - Catálogo de Maquiagem</title>
+</head>
+
+<body>
+
+    <!-- 1. Título da página -->
+    <h1>Beauty Store </h1>
+    <p>Catálogo de produtos de maquiagem</p>
+
+    <!-- 2. Menu de navegação -->
+    <h2>Menu de Navegação</h2>
+
+    <nav>
+        <a href="#inicio">Início</a> |
+        <a href="#produtos">Produtos</a> |
+        <a href="#tabela">Tabela de Preços</a> |
+        <a href="#audio">Áudio</a> |
+        <a href="#video">Vídeo</a> |
+        <a href="#youtube">YouTube</a>
+    </nav>
+
+    <hr>
+
+    <!-- Início -->
+    <section id="inicio">
+        <h2>Bem-vinda à Beauty Store!</h2>
+
+        <p>
+            Aqui você encontra produtos de maquiagem para
+            realçar ainda mais a sua beleza.
+        </p>
+    </section>
+
+    <hr>
+
+    <!-- 3. Produtos -->
+    <section id="produtos">
+
+        <h2>Produtos</h2>
+
+        <h3>1. Gloss Labial</h3>
+
+        <img src="imagens/gloss.jpg"
+             alt="Gloss labial"
+             width="250">
+
+        <p>Gloss labial com brilho e hidratação para os lábios.</p>
+
+        <h3>2. Paleta de Sombras</h3>
+
+        <img src="imagens/paleta.jpg"
+             alt="Paleta de sombras"
+             width="250">
+
+        <p>Paleta com várias cores para diferentes estilos de maquiagem.</p>
+
+        <h3>3. Máscara de Cílios</h3>
+
+        <img src="imagens/mascara.jpg"
+             alt="Máscara de cílios"
+             width="250">
+
+        <p>Máscara que proporciona volume e definição aos cílios.</p>
+
+        <h3>4. Base Líquida</h3>
+
+        <img src="imagens/base.jpg"
+             alt="Base líquida"
+             width="250">
+
+        <p>Base líquida para deixar a pele uniforme e com acabamento natural.</p>
+
+    </section>
+
+    <hr>
+
+    <!-- 4. Tabela de produtos -->
+    <section id="tabela">
+
+        <h2>Tabela de Produtos</h2>
+
+        <table border="1">
+
+            <tr>
+                <th>Produto</th>
+                <th>Categoria</th>
+                <th>Preço</th>
+                <th>Quantidade disponível</th>
+            </tr>
+
+            <tr>
+                <td>Gloss Labial</td>
+                <td>Lábios</td>
+                <td>R$ 29,90</td>
+                <td>15</td>
+            </tr>
+
+            <tr>
+                <td>Paleta de Sombras</td>
+                <td>Olhos</td>
+                <td>R$ 59,90</td>
+                <td>10</td>
+            </tr>
+
+            <tr>
+                <td>Máscara de Cílios</td>
+                <td>Olhos</td>
+                <td>R$ 39,90</td>
+                <td>20</td>
+            </tr>
+
+            <tr>
+                <td>Base Líquida</td>
+                <td>Pele</td>
+                <td>R$ 49,90</td>
+                <td>12</td>
+            </tr>
+
+        </table>
+
+    </section>
+
+    <hr>
+
+    <!-- 5. Áudio -->
+    <section id="audio">
+
+        <h2>Áudio</h2>
+
+        <p>Ouça uma apresentação da nossa loja:</p>
+
+        <audio controls>
+            <source src="audio/apresentacao.mp3" type="audio/mpeg">
+        </audio>
+
+    </section>
+
+    <hr>
+
+    <!-- 6. Vídeo -->
+    <section id="video">
+
+        <h2>Vídeo</h2>
+
+        <p>Confira nosso vídeo sobre maquiagem:</p>
+
+        <video width="500" controls>
+
+            <source src="videos/maquiagem.mp4" type="video/mp4">
+
+            Seu navegador não suporta vídeo.
+
+        </video>
+
+    </section>
+
+    <hr>
+
+    <!-- 7. Vídeo do YouTube -->
+    <section id="youtube">
+
+        <h2>Vídeo do YouTube</h2>
+
+        <p>Confira um vídeo relacionado à maquiagem:</p>
+
+        <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/SEU_VIDEO_AQUI"
+            title="Vídeo sobre maquiagem"
+            allowfullscreen>
+        </iframe>
+
+    </section>
+
+    <hr>
+
+    <!-- Link externo -->
+    <h2>Site relacionado</h2>
+
+    <a href="https://www.sephora.com.br/" target="_blank">
+        Visitar loja de maquiagem
+    </a>
+
+    <hr>
+
+    <!-- 8. Organização -->
+    <h2>Organização dos arquivos</h2>
+
+    <p>
+        Este projeto está organizado nas pastas:
+        imagens, videos e audio.
+    </p>
+
+    <footer>
+        <p>Beauty Store - Beleza, autoestima e você! </p>
+    </footer>
+
+</body>
+
+</html>e Preços</a> |
+        <a href="#audio">Áudio</a> |
+        <a href="#video">Vídeo</a> |
+        <a href="#youtube">YouTube</a>
+    </nav>
+
+    <hr>
+
+    <!-- Início -->
+    <section id="inicio">
+        <h2>Bem-vinda à Beauty Store!</h2>
+
+        <p>
+            Aqui você encontra produtos de maquiagem para
+            realçar ainda mais a sua beleza.
+        </p>
+    </section>
+
+    <hr>
+
+    <!-- 3. Produtos -->
+    <section id="produtos">
+
+        <h2>Produtos</h2>
+
+        <h3>1. Gloss Labial</h3>
+
+        <img src="imagens/gloss.jpg"
+             alt="Gloss labial"
+             width="250">
+
+        <p>Gloss labial com brilho e hidratação para os lábios.</p>
+
+        <h3>2. Paleta de Sombras</h3>
+
+        <img src="imagens/paleta.jpg"
+             alt="Paleta de sombras"
+             width="250">
+
+        <p>Paleta com várias cores para diferentes estilos de maquiagem.</p>
+
+        <h3>3. Máscara de Cílios</h3>
+
+        <img src="imagens/mascara.jpg"
+             alt="Máscara de cílios"
+             width="250">
+
+        <p>Máscara que proporciona volume e definição aos cílios.</p>
+
+        <h3>4. Base Líquida</h3>
+
+        <img src="imagens/base.jpg"
+             alt="Base líquida"
+             width="250">
+
+        <p>Base líquida para deixar a pele uniforme e com acabamento natural.</p>
+
+    </section>
+
+    <hr>
+
+    <!-- 4. Tabela de produtos -->
+    <section id="tabela">
+
+        <h2>Tabela de Produtos</h2>
+
+        <table border="1">
+
+            <tr>
+                <th>Produto</th>
+                <th>Categoria</th>
+                <th>Preço</th>
+                <th>Quantidade disponível</th>
+            </tr>
+
+            <tr>
+                <td>Gloss Labial</td>
+                <td>Lábios</td>
+                <td>R$ 29,90</td>
+                <td>15</td>
+            </tr>
+
+            <tr>
+                <td>Paleta de Sombras</td>
+                <td>Olhos</td>
+                <td>R$ 59,90</td>
+                <td>10</td>
+            </tr>
+
+            <tr>
+                <td>Máscara de Cílios</td>
+                <td>Olhos</td>
+                <td>R$ 39,90</td>
+                <td>20</td>
+            </tr>
+
+            <tr>
+                <td>Base Líquida</td>
+                <td>Pele</td>
+                <td>R$ 49,90</td>
+                <td>12</td>
+            </tr>
+
+        </table>
+
+    </section>
+
+    <hr>
+
+    <!-- 5. Áudio -->
+    <section id="audio">
+
+        <h2>Áudio</h2>
+
+        <p>Ouça uma apresentação da nossa loja:</p>
+
+        <audio controls>
+            <source src="audio/apresentacao.mp3" type="audio/mpeg">
+        </audio>
+
+    </section>
+
+    <hr>
+
+    <!-- 6. Vídeo -->
+    <section id="video">
+
+        <h2>Vídeo</h2>
+
+        <p>Confira nosso vídeo sobre maquiagem:</p>
+
+        <video width="500" controls>
+
+            <source src="videos/maquiagem.mp4" type="video/mp4">
+
+            Seu navegador não suporta vídeo.
+
+        </video>
+
+    </section>
+
+    <hr>
+
+    <!-- 7. Vídeo do YouTube -->
+    <section id="youtube">
+
+        <h2>Vídeo do YouTube</h2>
+
+        <p>Confira um vídeo relacionado à maquiagem:</p>
+
+        <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/SEU_VIDEO_AQUI"
+            title="Vídeo sobre maquiagem"
+            allowfullscreen>
+        </iframe>
+
+    </section>
+
+    <hr>
+
+    <!-- Link externo -->
+    <h2>Site relacionado</h2>
+
+    <a href="https://www.sephora.com.br/" target="_blank">
+        Visitar loja de maquiagem
+    </a>
+
+    <hr>
+
+    <!-- 8. Organização -->
+    <h2>Organização dos arquivos</h2>
+
+    <p>
+        Este projeto está organizado nas pastas:
+        imagens, videos e audio.
+    </p>
+
+    <footer>
+        <p>Beauty Store - Beleza, autoestima e você! </p>
+    </footer>
+
+</body>
+
+</html>
